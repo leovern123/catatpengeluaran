@@ -42,3 +42,5 @@ Transaksi “Tabungan / Dana Darurat” saat ini dicatat sebagai pengeluaran/alo
 - Aplikasi ini tidak terhubung otomatis ke rekening bank. Semua transaksi dimasukkan manual.
 - Sheet `Kategori` dapat diedit langsung untuk menambah kategori. Kolom `Aktif` harus bernilai TRUE/FALSE.
 - CSV hanya mengekspor transaksi bulan terpilih.
+
+# catatpengeluaran
